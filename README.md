@@ -11,4 +11,4 @@
 -   lancer nodemon grace à npm via la commande `npm run dev` (définie dans le `package.json`)
 -   le port d'écoute du serveur est 3000 dans le code, mais il faut se rendre sur localhost:3001 pour que browser-sync écoute les changements
 
-voila, le serveur redémarre à chaque modif grace à nodemon et à chaque modif de la page html, browser-sync reload la page dans le browser.
+voila, le serveur redémarre à chaque modification grace à nodemon et à chaque modif de la page html, browser-sync reload la page dans le browser.
